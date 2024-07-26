@@ -18,7 +18,7 @@ This repository contains the code for a stylish and responsive login page. The d
 To use this login page in your project:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/login-page.git
+   git clone https://github.com/codewithbsatyajit/login-page.git
    ```
 2. Open `index.html` in your web browser to see the login page in action.
 3. Customize the background image and other styles by modifying the `style.css` file.
